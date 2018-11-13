@@ -1,7 +1,6 @@
 from config import *
 
 import eospy.keys
-import eospy.types
 import eospy.cleos
 
 #ce = eospy.cleos.Cleos(url='http://api.pennstation.eosnewyork.io:7001')
