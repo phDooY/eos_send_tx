@@ -6,7 +6,7 @@ Make a copy of `config.py` file containing your PK and accounts you want to send
 
 Install requirements
 
-```pip3 -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 And run `send_tx.py`
 
